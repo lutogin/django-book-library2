@@ -26,7 +26,8 @@ SECRET_KEY = '0qkm-)mge@6dan!a)xoge4f^u(2*p@f^cge6y=l-w8@izds89y'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '127.0.0.1'
+    '127.0.0.1',
+    'lutogin-django-book-library.herokuapp.com'
 ]
 
 
